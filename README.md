@@ -31,3 +31,15 @@
 
 4.4.1 Solidworks
 ![image](https://github.com/user-attachments/assets/d8692d60-c412-43a6-89e8-f9ccd4f82d2e)
+
+4.5 Calculations
+
+The calculation sheet was created by the UT24 Brakes Lead - Mo Taban, based on a successful EBS run of the UT24 Driverless EV. My responsibility is to update the new design parameters and ensure strict compliance with the physical constraints of the car and the FSAE rules for the Driverless category.
+
+<img width="1121" alt="Screenshot 2024-10-24 at 6 32 30 PM" src="https://github.com/user-attachments/assets/25198e59-e1e5-45f2-9824-97635cbe19cc">
+<img width="964" alt="Screenshot 2024-10-24 at 6 32 52 PM" src="https://github.com/user-attachments/assets/43ab3286-acc0-4429-825d-e0c5c9a52a9e">
+<img width="1149" alt="Screenshot 2024-10-24 at 6 32 56 PM" src="https://github.com/user-attachments/assets/72e404fd-395b-42b2-add0-a128ed91a457">
+
+
+
+
