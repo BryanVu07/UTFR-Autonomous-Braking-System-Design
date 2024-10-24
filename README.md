@@ -21,7 +21,7 @@
 
 ![image](https://github.com/user-attachments/assets/b272fa7b-0c77-4ea8-b050-2356f11044e8)
 
-4..3 Solenoid valves
+4.3 Solenoid valves
 
 4.3.1 Solidworks
 
