@@ -18,12 +18,12 @@
 - **T15.3**: Continuous monitoring and a safe state must be ensured in case of failure, with the vehicle braking and stopping autonomously.
 - **T15.4**: The EBS must decelerate the vehicle with an average deceleration of 10 m/s² under dry conditions, with a reaction time of under 200 ms.
 
-4.1 EBS Pistons
+4.0.2 EBS Pistons
 
 ![image](https://github.com/user-attachments/assets/12ee6d72-ceb9-46fe-bb62-9ea7f3e079fd)
 ![image](https://github.com/user-attachments/assets/beb9b251-92af-4c24-baf8-2c28dbea964d)
 
-4.1.1 UT24 EBS 
+4.0.3 UT24 EBS 
 
 In 2023-2024, UT24 marked the University of Toronto Formula Racing team's first-ever implementation of driverless technology on our electric vehicle. Last June, we celebrated a historic milestone: Canada’s First Driverless FSAE Car Test 🇨🇦🏎️
 
@@ -34,7 +34,7 @@ This milestone signifies an exciting new chapter for our team, highlighting our 
 ![Screenshot 2024-11-11 062507](https://github.com/user-attachments/assets/142a62e7-dd65-476f-9778-e47c048f0de2)
 https://www.linkedin.com/posts/utfr_canadas-first-driverless-fsae-car-test-activity-7219013523928985600-Te0B?utm_source=share&utm_medium=member_desktop
 
-4.1.1.1 UT24 EBS Functionality 
+4.0.3.1 UT24 EBS Functionality 
 
 The calculation sheet was created by the UT24 Brakes Lead - Mo Taban, based on a successful EBS run of the UT24 Driverless EV. My responsibility is to update the new design parameters and ensure strict compliance with the physical constraints of the car and the FSAE rules for the Driverless category.
 
@@ -42,23 +42,22 @@ The calculation sheet was created by the UT24 Brakes Lead - Mo Taban, based on a
 <img width="964" alt="Screenshot 2024-10-24 at 6 32 52 PM" src="https://github.com/user-attachments/assets/43ab3286-acc0-4429-825d-e0c5c9a52a9e">
 <img width="1149" alt="Screenshot 2024-10-24 at 6 32 56 PM" src="https://github.com/user-attachments/assets/72e404fd-395b-42b2-add0-a128ed91a457">
 
-
-4.1.2 UT25 EBS
+4.0.4 UT25 EBS
 
 This new EBS design features a custom chamber placed directly on top of the master cylinders. When air is introduced into the chamber at 140 psi, it compresses the large piston on top of the master cylinder rod, activating the hydraulic braking system without interfering with the bias bar. The design demonstrates strong mechanical fundamentals, creativity, and confidence in creating custom pneumatic components that replace industry-made pneumatic cylinders. This system is fully compliant with competitions featuring a driverless category, as it allows for adjustability with the brake pedal, unlike the UT24 design.
 
 ![Screenshot 2024-11-11 091804](https://github.com/user-attachments/assets/8b17ece0-ddba-4046-9f68-0c408fcf379f)
 ![Screenshot 2024-11-11 091836](https://github.com/user-attachments/assets/4bccc2e6-b310-4576-a8c7-a3c0bad1d678)
 
-4.2 Air Tank
+4.0.5 Air Tank
 
 ![image](https://github.com/user-attachments/assets/b272fa7b-0c77-4ea8-b050-2356f11044e8)
 
-4.3 Solenoid valves
+4.0.6 Solenoid valves
 
 ![image](https://github.com/user-attachments/assets/bb8596ca-5cfc-46d3-9219-6aa1dedb1caf)
 
-4.4 Air Accumulators
+4.0.7 Air Accumulators
 
 ![image](https://github.com/user-attachments/assets/d8692d60-c412-43a6-89e8-f9ccd4f82d2e)
 
