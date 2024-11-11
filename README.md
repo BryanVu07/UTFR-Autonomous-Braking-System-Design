@@ -42,7 +42,10 @@ The calculation sheet was created by the UT24 Brakes Lead - Mo Taban, based on a
 <img width="964" alt="Screenshot 2024-10-24 at 6 32 52 PM" src="https://github.com/user-attachments/assets/43ab3286-acc0-4429-825d-e0c5c9a52a9e">
 <img width="1149" alt="Screenshot 2024-10-24 at 6 32 56 PM" src="https://github.com/user-attachments/assets/72e404fd-395b-42b2-add0-a128ed91a457">
 
+
 4.1.2 UT25 EBS
+
+This new EBS design features a custom chamber placed directly on top of the master cylinders. When air is introduced into the chamber at 140 psi, it compresses the large piston on top of the master cylinder rod, activating the hydraulic braking system without interfering with the bias bar. The design demonstrates strong mechanical fundamentals, creativity, and confidence in creating custom pneumatic components that replace industry-made pneumatic cylinders. This system is fully compliant with competitions featuring a driverless category, as it allows for adjustability with the brake pedal, unlike the UT24 design.
 
 ![Screenshot 2024-11-11 091804](https://github.com/user-attachments/assets/8b17ece0-ddba-4046-9f68-0c408fcf379f)
 ![Screenshot 2024-11-11 091836](https://github.com/user-attachments/assets/4bccc2e6-b310-4576-a8c7-a3c0bad1d678)
