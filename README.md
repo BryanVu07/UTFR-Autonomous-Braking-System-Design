@@ -1,12 +1,3 @@
-1.0 Mechanical Department Goals:
-
-![image](https://github.com/user-attachments/assets/bd6502bd-729a-4e5f-834d-59d3b41daa7e)
-
-2.0 Brakes Section Goals:
-
-![Screenshot 2024-10-03 170601](https://github.com/user-attachments/assets/e50061ab-4456-4657-b88a-8043dfd93e69)
-![Screenshot 2024-10-03 170626](https://github.com/user-attachments/assets/7f5e29cf-b62a-4df3-909b-45d282ecb651)
-
 4.0 Driverless Brakes Section Design (Mechanical Brakes ends at 3.1.4 Brake Light)
 
 4.0.1 Rules 
@@ -22,6 +13,8 @@
 
 ![image](https://github.com/user-attachments/assets/12ee6d72-ceb9-46fe-bb62-9ea7f3e079fd)
 ![image](https://github.com/user-attachments/assets/beb9b251-92af-4c24-baf8-2c28dbea964d)
+![image](https://github.com/user-attachments/assets/0e6907e3-2d38-4b46-9994-b6cdf8eaa83a)
+
 
 4.0.3 UT24 EBS 
 
@@ -46,8 +39,9 @@ The calculation sheet was created by the UT24 Brakes Lead - Mo Taban, based on a
 
 This new EBS design features a custom chamber placed directly on top of the master cylinders. When air is introduced into the chamber at 140 psi, it compresses the large piston on top of the master cylinder rod, activating the hydraulic braking system without interfering with the bias bar. The design demonstrates strong mechanical fundamentals, creativity, and confidence in creating custom pneumatic components that replace industry-made pneumatic cylinders. This system is fully compliant with competitions featuring a driverless category, as it allows for adjustability with the brake pedal, unlike the UT24 design.
 
-![Screenshot 2024-11-11 091804](https://github.com/user-attachments/assets/8b17ece0-ddba-4046-9f68-0c408fcf379f)
-![Screenshot 2024-11-11 091836](https://github.com/user-attachments/assets/4bccc2e6-b310-4576-a8c7-a3c0bad1d678)
+![Screenshot 2024-12-15 102201](https://github.com/user-attachments/assets/ab475208-5332-42fa-a59b-194430542805)
+![image](https://github.com/user-attachments/assets/1ace79a8-a141-43c2-a663-66e31c068555)
+![image](https://github.com/user-attachments/assets/b6c73a8b-b527-4d0c-93cd-3991c62a6280)
 
 4.0.5 Air Tank
 
@@ -60,6 +54,12 @@ This new EBS design features a custom chamber placed directly on top of the mast
 4.0.7 Air Accumulators
 
 ![image](https://github.com/user-attachments/assets/d8692d60-c412-43a6-89e8-f9ccd4f82d2e)
+
+4.0.8 Manual On/Off Valve
+
+![image](https://github.com/user-attachments/assets/46de1e00-8e3b-44ef-960c-94766525c79e)
+
+
 
 
 
